@@ -1,0 +1,15 @@
+nav{
+    background-color:paleturquoise
+    
+}
+.header{
+    color:mediumblue;
+}
+.footer{
+    background-color:paleturquoise;
+    height: 100px;
+}
+.copyright{
+    text-align: center;
+    padding-top: 70px;
+}
